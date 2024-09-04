@@ -181,6 +181,13 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>New_Value__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>New Value</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Fifth_Field__c</fullName>
         <externalId>false</externalId>
         <label>Fifth Field</label>
